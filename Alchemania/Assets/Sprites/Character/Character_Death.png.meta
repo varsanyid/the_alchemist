@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 6a18c5e71ac1c134c89a7ef27e506c07
+timeCreated: 1459853455
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_Death_0
+    21300002: Character_Death_1
+    21300004: Character_Death_2
+    21300006: Character_Death_3
+    21300008: Character_Death_4
+    21300010: Character_Death_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Death_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 80
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.432098, y: 72.85185}
+        - {x: -31.432098, y: 32.851852}
+        - {x: -31.432098, y: -69.14815}
+        - {x: -24.432098, y: -71.14815}
+        - {x: 32.5679, y: -71.14815}
+        - {x: 32.5679, y: 72.85185}
+    - name: Character_Death_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 16
+        width: 89
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.185181, y: 63.141975}
+        - {x: -35.18518, y: -6.8580246}
+        - {x: -35.18518, y: -61.858025}
+        - {x: 25.81482, y: -61.858025}
+        - {x: 36.81482, y: -17.858025}
+        - {x: 36.81482, y: 63.141975}
+    - name: Character_Death_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 13
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.808655, y: 37.771606}
+        - {x: 7.808655, y: 33.771606}
+        - {x: -46.191345, y: -17.228394}
+        - {x: -46.191345, y: -37.228394}
+        - {x: 37.808655, y: -37.228394}
+        - {x: 39.808655, y: -34.228394}
+        - {x: 46.808655, y: -10.228394}
+        - {x: 46.808655, y: 37.771606}
+    - name: Character_Death_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.685181, y: 32.790123}
+        - {x: 4.6851807, y: 26.790123}
+        - {x: -15.314819, y: 5.790123}
+        - {x: -46.31482, y: -29.209877}
+        - {x: -46.31482, y: -44.209877}
+        - {x: 39.68518, y: -44.209877}
+        - {x: 46.68518, y: -14.209877}
+        - {x: 46.68518, y: 25.790123}
+        - {x: 45.68518, y: 32.790123}
+    - name: Character_Death_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.358032, y: 53.080246}
+        - {x: -50.358032, y: 43.080246}
+        - {x: -50.358032, y: -46.919754}
+        - {x: -48.358032, y: -51.919754}
+        - {x: -19.358032, y: -51.919754}
+        - {x: 9.641968, y: -48.919754}
+        - {x: 19.641968, y: -43.919754}
+        - {x: 24.641968, y: -51.919754}
+        - {x: 51.641968, y: -51.919754}
+        - {x: 51.641968, y: 33.080246}
+        - {x: 43.641968, y: 53.080246}
+    - name: Character_Death_5
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 199
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.23456, y: 65}
+        - {x: -78.23456, y: 4}
+        - {x: -78.23456, y: -66}
+        - {x: 78.76544, y: -66}
+        - {x: 78.76544, y: 37}
+        - {x: 21.765442, y: 65}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

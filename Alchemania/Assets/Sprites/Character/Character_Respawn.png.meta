@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: c781f43f35230f846a06a75378302058
+timeCreated: 1459855316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_Respawn_0
+    21300002: Character_Respawn_1
+    21300004: Character_Respawn_2
+    21300006: Character_Respawn_3
+    21300008: Character_Respawn_4
+    21300010: Character_Respawn_5
+    21300012: Character_Respawn_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Respawn_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character_Respawn_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 196
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.4320984, y: 51}
+        - {x: -20.567902, y: 65}
+        - {x: -48.5679, y: 65}
+        - {x: -77.5679, y: 35}
+        - {x: -77.5679, y: -65}
+        - {x: 78.4321, y: -65}
+        - {x: 78.4321, y: 20}
+        - {x: 77.4321, y: 30}
+        - {x: 18.432098, y: 65}
+        - {x: 10.432098, y: 65}
+        - {x: 6.4320984, y: 62}
+    - name: Character_Respawn_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.358017, y: 53.080246}
+        - {x: -50.358017, y: 15.080246}
+        - {x: -50.358017, y: -45.919754}
+        - {x: -45.358017, y: -48.919754}
+        - {x: -35.358017, y: -47.919754}
+        - {x: 9.641983, y: -48.919754}
+        - {x: 19.641983, y: -43.919754}
+        - {x: 24.641983, y: -51.919754}
+        - {x: 51.641983, y: -51.919754}
+        - {x: 51.641983, y: 27.080246}
+        - {x: 29.641983, y: 53.080246}
+    - name: Character_Respawn_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 13
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.808655, y: 37.771606}
+        - {x: -11.191345, y: 20.771606}
+        - {x: -46.191345, y: -16.228394}
+        - {x: -46.191345, y: -37.228394}
+        - {x: 46.808655, y: -37.228394}
+        - {x: 46.808655, y: 37.771606}
+    - name: Character_Respawn_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 13
+        width: 116
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.475342, y: 37.771606}
+        - {x: -45.52466, y: -25.228394}
+        - {x: -45.52466, y: -37.228394}
+        - {x: 43.47534, y: -37.228394}
+        - {x: 47.47534, y: -7.2283936}
+        - {x: 47.47534, y: 37.771606}
+    - name: Character_Respawn_5
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 16
+        width: 89
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.185181, y: 63.141975}
+        - {x: -35.18518, y: -6.8580246}
+        - {x: -35.18518, y: -61.858025}
+        - {x: 25.81482, y: -61.858025}
+        - {x: 36.81482, y: -17.858025}
+        - {x: 36.81482, y: 63.141975}
+    - name: Character_Respawn_6
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 15
+        width: 78
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.401245, y: -67.14815}
+        - {x: 32.401245, y: 73.85185}
+        - {x: 4.401245, y: 73.85185}
+        - {x: -18.598755, y: 60.851852}
+        - {x: -30.598755, y: -13.148148}
+        - {x: -30.598755, y: -69.14815}
+        - {x: -23.598755, y: -72.14815}
+        - {x: -4.598755, y: -72.14815}
+        - {x: -5.598755, y: -67.14815}
+        - {x: 3.401245, y: -72.14815}
+        - {x: 30.401245, y: -72.14815}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

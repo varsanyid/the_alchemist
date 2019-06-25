@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 50e3c5390511d344b82c69487f563e00
+timeCreated: 1456311110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spider_sprite,w1200 h680_0
+    21300002: spider_sprite,w1200 h680_1
+    21300004: spider_sprite,w1200 h680_2
+    21300006: spider_sprite,w1200 h680_3
+    21300008: spider_sprite,w1200 h680_4
+    21300010: spider_sprite,w1200 h680_5
+    21300012: spider_sprite,w1200 h680_6
+    21300014: spider_sprite,w1200 h680_7
+    21300016: spider_sprite,w1200 h680_8
+    21300018: spider_sprite,w1200 h680_9
+    21300020: spider_sprite,w1200 h680_10
+    21300022: spider_sprite,w1200 h680_11
+    21300024: spider_sprite,w1200 h680_12
+    21300026: spider_sprite,w1200 h680_13
+    21300028: spider_sprite,w1200 h680_14
+    21300030: spider_sprite,w1200 h680_15
+    21300032: spider_sprite,w1200 h680_16
+    21300034: spider_sprite,w1200 h680_17
+    21300036: spider_sprite,w1200 h680_18
+    21300038: spider_sprite,w1200 h680_19
+    21300040: spider_sprite,w1200 h680_20
+    21300042: spider_sprite,w1200 h680_21
+    21300044: spider_sprite,w1200 h680_22
+    21300046: spider_sprite,w1200 h680_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spider_sprite,w1200 h680_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 58}
+        - {x: -81.5, y: -3}
+        - {x: -81.5, y: -57}
+        - {x: 96.5, y: -57}
+        - {x: 96.5, y: 7}
+        - {x: 50.5, y: 58}
+    - name: spider_sprite,w1200 h680_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2720
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.294113, y: -32}
+        - {x: -58.294113, y: -36}
+        - {x: -52.294113, y: -42}
+        - {x: 1.7058868, y: -36}
+        - {x: 21.705887, y: -32}
+        - {x: 47.705887, y: -19}
+        - {x: 49.705887, y: -9}
+        - {x: 50.705887, y: -5}
+        - {x: 56.705887, y: 4}
+        - {x: 41.705887, y: -35}
+        - {x: 46.705887, y: -56}
+        - {x: 53.705887, y: -53}
+        - {x: 61.705887, y: -37}
+        - {x: 65.70589, y: -27}
+        - {x: 88.70589, y: -54}
+        - {x: 98.70589, y: -57}
+        - {x: 98.70589, y: 5}
+        - {x: 40.705887, y: 58}
+        - {x: -22.294113, y: 58}
+        - {x: -37.294113, y: 52}
+        - {x: -70.29411, y: 14}
+        - {x: -77.29411, y: -7}
+        - {x: -77.29411, y: -38}
+        - {x: -76.29411, y: -54}
+        - {x: -73.29411, y: -58}
+        - {x: -71.29411, y: -58}
+        - {x: -65.29411, y: -56}
+        - {x: -63.294113, y: -48}
+        - {x: -62.294113, y: -41}
+        - {x: -61.294113, y: -29}
+    - name: spider_sprite,w1200 h680_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2720
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.411774, y: 58}
+        - {x: -40.588226, y: 58}
+        - {x: -79.58823, y: 27}
+        - {x: -79.58823, y: -58}
+        - {x: 99.41177, y: -58}
+        - {x: 103.41177, y: -26}
+        - {x: 103.41177, y: 16}
+    - name: spider_sprite,w1200 h680_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2720
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.617676, y: 58}
+        - {x: -37.382324, y: 58}
+        - {x: -78.382324, y: 42}
+        - {x: -84.382324, y: 21}
+        - {x: -84.382324, y: -58}
+        - {x: -19.382324, y: -58}
+        - {x: -15.382324, y: -56}
+        - {x: 25.617676, y: -36}
+        - {x: 38.617676, y: -29}
+        - {x: 53.617676, y: -58}
+        - {x: 66.617676, y: -58}
+        - {x: 92.617676, y: -29}
+        - {x: 98.617676, y: -22}
+        - {x: 98.617676, y: 24}
+    - name: spider_sprite,w1200 h680_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2720
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.823547, y: -56}
+        - {x: 62.823547, y: -58}
+        - {x: 72.82355, y: -58}
+        - {x: 92.82355, y: -8}
+        - {x: 92.82355, y: 11}
+        - {x: 78.82355, y: 35}
+        - {x: 45.823547, y: 58}
+        - {x: -31.176453, y: 58}
+        - {x: -90.17645, y: 35}
+        - {x: -90.17645, y: -30}
+        - {x: -81.17645, y: -27}
+        - {x: -75.17645, y: -15}
+        - {x: -76.17645, y: -13}
+        - {x: -71.17645, y: -5}
+        - {x: -71.17645, y: -1}
+        - {x: -64.17645, y: 4}
+        - {x: -73.17645, y: -9}
+        - {x: -73.17645, y: -38}
+        - {x: -64.17645, y: -58}
+        - {x: -55.176453, y: -58}
+        - {x: -52.176453, y: -57}
+        - {x: -56.176453, y: -30}
+        - {x: 22.823547, y: -34}
+        - {x: 41.823547, y: -25}
+    - name: spider_sprite,w1200 h680_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: 58}
+        - {x: -21.5, y: 58}
+        - {x: -88.5, y: 26}
+        - {x: -88.5, y: -51}
+        - {x: -76.5, y: -58}
+        - {x: 74.5, y: -58}
+        - {x: 90.5, y: -35}
+        - {x: 90.5, y: 12}
+        - {x: 81.5, y: 46}
+    - name: spider_sprite,w1200 h680_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2040
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.294113, y: 58}
+        - {x: -85.29411, y: 16}
+        - {x: -85.29411, y: -53}
+        - {x: -73.29411, y: -53}
+        - {x: -61.294113, y: -48}
+        - {x: -18.294113, y: -53}
+        - {x: 93.70589, y: -53}
+        - {x: 93.70589, y: 19}
+        - {x: 31.705887, y: 58}
+    - name: spider_sprite,w1200 h680_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2040
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.411774, y: -56}
+        - {x: 55.411774, y: -58}
+        - {x: 92.41177, y: -58}
+        - {x: 101.41177, y: -53}
+        - {x: 101.41177, y: -27}
+        - {x: 94.41177, y: 26}
+        - {x: 40.411774, y: 58}
+        - {x: -27.588226, y: 58}
+        - {x: -86.58823, y: 25}
+        - {x: -86.58823, y: -36}
+        - {x: -82.58823, y: -58}
+        - {x: -64.58823, y: -58}
+        - {x: -59.588226, y: -57}
+        - {x: -58.588226, y: -40}
+        - {x: 33.411774, y: -33}
+        - {x: 49.411774, y: -15}
+    - name: spider_sprite,w1200 h680_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2040
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.617676, y: -48}
+        - {x: 102.617676, y: -5}
+        - {x: 80.617676, y: 38}
+        - {x: 53.617676, y: 58}
+        - {x: -29.382324, y: 58}
+        - {x: -87.382324, y: 37}
+        - {x: -87.382324, y: -29}
+        - {x: -71.382324, y: -58}
+        - {x: -64.382324, y: -58}
+        - {x: -62.382324, y: -57}
+        - {x: -60.382324, y: -53}
+        - {x: 8.617676, y: -58}
+        - {x: 69.617676, y: -58}
+        - {x: 78.617676, y: -37}
+        - {x: 97.617676, y: -47}
+        - {x: 101.617676, y: -48}
+    - name: spider_sprite,w1200 h680_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2040
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.823547, y: -56}
+        - {x: 65.82355, y: -57}
+        - {x: 91.82355, y: -57}
+        - {x: 91.82355, y: 28}
+        - {x: 42.823547, y: 58}
+        - {x: -60.176453, y: 58}
+        - {x: -97.17645, y: 26}
+        - {x: -97.17645, y: -57}
+        - {x: -57.176453, y: -57}
+        - {x: -48.176453, y: -38}
+        - {x: 24.823547, y: -41}
+        - {x: 41.823547, y: -25}
+    - name: spider_sprite,w1200 h680_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 58}
+        - {x: -96.5, y: 12}
+        - {x: -102.5, y: -6}
+        - {x: -102.5, y: -58}
+        - {x: 91.5, y: -58}
+        - {x: 91.5, y: 24}
+        - {x: 26.5, y: 58}
+    - name: spider_sprite,w1200 h680_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1360
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.70589, y: -54}
+        - {x: 77.70589, y: -58}
+        - {x: 81.70589, y: -58}
+        - {x: 95.70589, y: -36}
+        - {x: 96.70589, y: -21}
+        - {x: 96.70589, y: 2}
+        - {x: 64.70589, y: 34}
+        - {x: 40.705887, y: 49}
+        - {x: 18.705887, y: 58}
+        - {x: -12.294113, y: 58}
+        - {x: -26.294113, y: 55}
+        - {x: -91.29411, y: -5}
+        - {x: -96.29411, y: -14}
+        - {x: -96.29411, y: -58}
+        - {x: 19.705887, y: -58}
+        - {x: 51.705887, y: -36}
+        - {x: 64.70589, y: -23}
+        - {x: 64.70589, y: -19}
+    - name: spider_sprite,w1200 h680_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1360
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.588226, y: -55}
+        - {x: 25.411774, y: -30}
+        - {x: 37.411774, y: -23}
+        - {x: 35.411774, y: -57}
+        - {x: 99.41177, y: -57}
+        - {x: 99.41177, y: 1}
+        - {x: 77.41177, y: 39}
+        - {x: 34.411774, y: 58}
+        - {x: -16.588226, y: 58}
+        - {x: -29.588226, y: 48}
+        - {x: -75.58823, y: 13}
+        - {x: -97.58823, y: -29}
+        - {x: -98.58823, y: -41}
+        - {x: -98.58823, y: -55}
+        - {x: -93.58823, y: -57}
+        - {x: -89.58823, y: -56}
+        - {x: -87.58823, y: -54}
+        - {x: -79.58823, y: -57}
+        - {x: -31.588226, y: -57}
+    - name: spider_sprite,w1200 h680_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1360
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.617676, y: 58}
+        - {x: -18.382324, y: 58}
+        - {x: -87.382324, y: 1}
+        - {x: -97.382324, y: -40}
+        - {x: -97.382324, y: -58}
+        - {x: 95.617676, y: -58}
+        - {x: 95.617676, y: 21}
+        - {x: 74.617676, y: 34}
+    - name: spider_sprite,w1200 h680_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1360
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.176453, y: 58}
+        - {x: -98.17645, y: 12}
+        - {x: -102.17645, y: -8}
+        - {x: -102.17645, y: -58}
+        - {x: -37.176453, y: -58}
+        - {x: 22.823547, y: -30}
+        - {x: 41.823547, y: -25}
+        - {x: 40.823547, y: -23}
+        - {x: 40.823547, y: -32}
+        - {x: 60.823547, y: -57}
+        - {x: 67.82355, y: -58}
+        - {x: 75.82355, y: -58}
+        - {x: 92.82355, y: -42}
+        - {x: 92.82355, y: 23}
+        - {x: 51.823547, y: 58}
+    - name: spider_sprite,w1200 h680_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 58}
+        - {x: -43.5, y: 58}
+        - {x: -98.5, y: 45}
+        - {x: -98.5, y: -45}
+        - {x: -78.5, y: -57}
+        - {x: 90.5, y: -57}
+        - {x: 90.5, y: 3}
+        - {x: 84.5, y: 19}
+    - name: spider_sprite,w1200 h680_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 680
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.70589, y: -8}
+        - {x: 100.70589, y: 12}
+        - {x: 35.705887, y: 58}
+        - {x: -26.294113, y: 58}
+        - {x: -86.29411, y: 26}
+        - {x: -86.29411, y: 2}
+        - {x: -72.29411, y: -58}
+        - {x: -60.294113, y: -58}
+        - {x: -52.294113, y: -29}
+        - {x: -12.294113, y: -32}
+        - {x: 33.705887, y: -32}
+        - {x: 45.705887, y: -17}
+        - {x: 49.705887, y: -9}
+        - {x: 59.705887, y: -58}
+        - {x: 70.70589, y: -58}
+        - {x: 71.70589, y: -57}
+        - {x: 79.70589, y: -38}
+        - {x: 96.70589, y: -48}
+        - {x: 103.70589, y: -47}
+    - name: spider_sprite,w1200 h680_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 680
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.411774, y: -56}
+        - {x: 55.411774, y: -58}
+        - {x: 92.41177, y: -58}
+        - {x: 101.41177, y: -53}
+        - {x: 101.41177, y: -27}
+        - {x: 94.41177, y: 26}
+        - {x: 40.411774, y: 58}
+        - {x: -27.588226, y: 58}
+        - {x: -86.58823, y: 25}
+        - {x: -86.58823, y: -36}
+        - {x: -82.58823, y: -58}
+        - {x: -64.58823, y: -58}
+        - {x: -59.588226, y: -57}
+        - {x: -58.588226, y: -40}
+        - {x: 33.411774, y: -33}
+        - {x: 49.411774, y: -15}
+    - name: spider_sprite,w1200 h680_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 680
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.617676, y: -53}
+        - {x: 91.617676, y: -52}
+        - {x: 92.617676, y: -45}
+        - {x: 92.617676, y: 20}
+        - {x: 53.617676, y: 58}
+        - {x: -25.382324, y: 58}
+        - {x: -85.382324, y: 21}
+        - {x: -85.382324, y: -53}
+        - {x: 37.617676, y: -53}
+        - {x: 59.617676, y: -45}
+        - {x: 67.617676, y: -40}
+        - {x: 79.617676, y: -53}
+    - name: spider_sprite,w1200 h680_19
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 680
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.823547, y: 58}
+        - {x: -36.176453, y: 58}
+        - {x: -85.17645, y: 18}
+        - {x: -87.17645, y: 6}
+        - {x: -87.17645, y: -52}
+        - {x: -76.17645, y: -58}
+        - {x: 76.82355, y: -58}
+        - {x: 91.82355, y: -14}
+        - {x: 91.82355, y: 13}
+        - {x: 71.82355, y: 46}
+    - name: spider_sprite,w1200 h680_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 58}
+        - {x: -30.5, y: 58}
+        - {x: -81.5, y: 34}
+        - {x: -91.5, y: 3}
+        - {x: -91.5, y: -26}
+        - {x: -89.5, y: -28}
+        - {x: -83.5, y: -26}
+        - {x: -79.5, y: -20}
+        - {x: -72.5, y: -4}
+        - {x: -72.5, y: -1}
+        - {x: -67.5, y: 0}
+        - {x: -74.5, y: -9}
+        - {x: -82.5, y: -39}
+        - {x: -67.5, y: -58}
+        - {x: 70.5, y: -58}
+        - {x: 91.5, y: -27}
+        - {x: 91.5, y: 30}
+    - name: spider_sprite,w1200 h680_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.705887, y: 58}
+        - {x: -72.29411, y: 58}
+        - {x: -84.29411, y: 53}
+        - {x: -84.29411, y: -58}
+        - {x: 76.70589, y: -58}
+        - {x: 99.70589, y: -23}
+        - {x: 99.70589, y: 35}
+        - {x: 96.70589, y: 43}
+    - name: spider_sprite,w1200 h680_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.411774, y: 58}
+        - {x: -40.588226, y: 58}
+        - {x: -79.58823, y: 27}
+        - {x: -79.58823, y: -58}
+        - {x: 99.41177, y: -58}
+        - {x: 103.41177, y: -26}
+        - {x: 103.41177, y: 16}
+    - name: spider_sprite,w1200 h680_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1200
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.382324, y: -33}
+        - {x: -49.382324, y: -58}
+        - {x: 98.617676, y: -58}
+        - {x: 98.617676, y: 7}
+        - {x: 70.617676, y: 58}
+        - {x: -34.382324, y: 58}
+        - {x: -78.382324, y: 45}
+        - {x: -78.382324, y: -55}
+        - {x: -76.382324, y: -58}
+        - {x: -67.382324, y: -58}
+        - {x: -65.382324, y: -52}
+        - {x: -62.382324, y: -35}
+        - {x: -62.382324, y: -30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
